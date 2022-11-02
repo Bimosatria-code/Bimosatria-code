@@ -6,6 +6,7 @@ I am Bimo Satria Putra Pratama, DevOps Engineer at Klik Digital Sinergi . Have k
 * https://github.com/Bimosatria-code/Dumbways_B7_Devops
 
 ### My Activities in Axisnet Project
+* https://github.com/Bimosatria-code/jaeger
 
 ### Get in touch
 * Twitter : https://twitter.com/Satria_Code
